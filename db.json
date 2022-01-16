@@ -1,0 +1,28 @@
+{
+   "usuario":[
+      {
+         "user":"rosita",
+         "pass":"rosi",
+         "rol":"Admin",
+         "full_name":"Rosita Angelica Baren Tarira",
+         "img":"https://scontent.fgye1-2.fna.fbcdn.net/v/t39.30808-6/254956203_1472861289747777_5122018914250059018_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=bFQJPCIGfGAAX8oJuTw&tn=EXXPPskvQTgIPe4P&_nc_ht=scontent.fgye1-2.fna&oh=00_AT-YbYbhFResEHg8oN74rwGobOl4OAZi3MZcgfJpLDHUFg&oe=61E9B966",
+         "mail":"rosa.baren2015@uteq.edu.ec"
+      },
+      {
+         "user":"angelica",
+         "pass":"angel",
+         "rol":"Vendedor",
+         "full_name":"Angelica Tarira",
+         "img":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.6435-9/117605240_1646414448851073_6495259819203533163_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=kOKwcRw6txEAX8PJQWX&_nc_ht=scontent.fgye1-1.fna&oh=00_AT-bu1yI7lsIv3libjiU6gYj2PDb2PI_QJNFLk4cjkzM-Q&oe=62091B62",
+         "mail":"angelica19968@hotmail.com"
+      },
+      {
+         "user":"franklin",
+         "pass":"frank",
+         "rol":"Cliente",
+         "full_name":"Franlin Adonis Mena Carrera",
+         "img":"https://scontent.fgye1-1.fna.fbcdn.net/v/t1.18169-9/416815_140831802703335_570209260_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=d1-xKnVKXZUAX8G8idz&_nc_ht=scontent.fgye1-1.fna&oh=00_AT98XQ_5QY4FSE8ogkxSGOqFidd8ocesyCPty9_VIEfaLA&oe=620AB461",
+         "mail":"franklin"
+      }
+   ]
+}
